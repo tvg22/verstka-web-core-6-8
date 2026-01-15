@@ -77,6 +77,13 @@ p{
     display:none;
 }
 
+.uppermenu__links{
+    display:flex;
+    align-items: center;
+}
+
+
+
 .uppermenu__label{
     display:none;
     
